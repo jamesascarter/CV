@@ -1,6 +1,6 @@
 # James Carter
 
-An aspiring Junior software developer who has gained experience in a range of web technologies and is looking to further knowledge and challenges ahead.
+An aspiring Junior software developer with experience in a range of web technologies gained from Makers Academy coding bootcamp. Looking for a junior dev role focussing on the back-end and is flexible with location.
 
 ## Code examples
 
@@ -64,6 +64,12 @@ Datamapper
 #### University College London – Pharmacology BSc., 2:1
 
 ## Work Experience
+
+#### Cqubed
+
+##### Analyst
+
+I spent the start of 2014 based in hongqing, China. Here I was working for a business incubator that had interests in social media, food and architecture. I started learning Chinese whilst out there and also learnt alot about the functioning of startup businesses with limited resources.
 
 #### UBS
 
