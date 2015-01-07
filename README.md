@@ -6,8 +6,8 @@ An aspiring Junior software developer who has gained experience in a range of we
 
 | [Bowling](https://github.com/jamesascarter/bowling) <br/>  | [Chitter](https://github.com/jamesascarter/Chitter) <br/> | [Thermostat](https://github.com/jamesascarter/Thermostat) <br/>
 | ----------------- | ----------------- | ----------------- |
-| A 10-pin bowling scoring calculator buil in Javascript. | A clone of Twitter created using Ruby and Sinatra | A thermostat website created using jQuery, Javascript and Sinatra|
-| *Javascript, Jasmine * | *Ruby, Sinatra* | *jQuery, Sinatra*, Jasmine* |
+| A 10-pin bowling scoring calculator built in Javascript. | A clone of Twitter created using Ruby and Sinatra | A thermostat website created using jQuery, Javascript and Sinatra|
+
 
 ## Education
 
@@ -21,16 +21,18 @@ A highly-selective twelve week immersive web development bootcamp in London, foc
 * JavaScript
 * CoffeeScript
 * JQuery
-* (touched upon) Java, Io, 
+* HTML/CSS
+* (touched upon) Java, Io, Python
 
-**Web frameworks/DSLs**:
+**Web frameworks**:
 
 * Sinatra
 * Rails
 * node.js
 * Express.js
+* Angular.js
 
-**Testing frameworks/DSLs**:
+**Testing frameworks**:
 
 * RSpec
 * Capybara
@@ -44,12 +46,20 @@ A highly-selective twelve week immersive web development bootcamp in London, foc
 * Heroku
 * GitHub
 
+**Databases/ORMs**:
+
+PostgreSQL
+Active record
+Sequelize
+Datamapper
+
 **Techniques**:
 
 * Test-driven development
-* Behav-driven development
+* Behaviour-driven development
 * Pair programming
 * Agile
+* SOLID principles
 
 #### University College London – Pharmacology BSc., 2:1
 
