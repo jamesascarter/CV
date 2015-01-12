@@ -1,6 +1,6 @@
 # James Carter
 
-An aspiring Junior software developer with experience in a range of web technologies gained from Makers Academy coding bootcamp. Looking for a junior dev role focussing on the back-end and is flexible with location.
+I have recently graduated from Makers Academy, a 12-week coding bootcamp, and am now looking for a challenging opportunity as a Junior Developer. I particularly enjoy coding in pairs and gain a lot of satisfaction from being completely lost in code on one day to having a comprehensive understanding of it the next. I am most familiar with Ruby and Javascript kanguages but am certainly open to learning other sfrom scratch.
 
 ## Code examples
 
@@ -15,14 +15,26 @@ An aspiring Junior software developer with experience in a range of web technolo
 
 A highly-selective twelve week immersive web development bootcamp in London, focused on rapidly training novices to proficiency with key web technologies.
 
+**Techniques**:
+
+* Test-driven development
+* Behaviour-driven development
+* Pair programming
+* Agile
+* SOLID principles
+* REST
+
 **Languages**:
+
 
 * Ruby
 * JavaScript
+
+And also touche
 * CoffeeScript
 * JQuery
 * HTML/CSS
-* (touched upon) Java, Io, Python
+* Java, Io, Python
 
 **Web frameworks**:
 
@@ -53,23 +65,16 @@ Active record
 Sequelize
 Datamapper
 
-**Techniques**:
-
-* Test-driven development
-* Behaviour-driven development
-* Pair programming
-* Agile
-* SOLID principles
 
 #### University College London – Pharmacology BSc., 2:1
 
 ## Work Experience
 
-#### Cqubed
+#### Cqubed, Chongqing
 
 ##### Analyst
 
-I spent the start of 2014 based in hongqing, China. Here I was working for a business incubator that had interests in social media, food and architecture. I started learning Chinese whilst out there and also learnt alot about the functioning of startup businesses with limited resources.
+I spent the start of 2014 based in Chongqing, China. Here I was working for a business incubator that had interests in social media, food and architecture. I started learning Chinese whilst out there and also learnt alot about the functioning of startup businesses with limited resources.
 
 #### UBS
 
