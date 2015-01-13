@@ -1,6 +1,6 @@
 # James Carter
 
-I have recently graduated from Makers Academy, a 12-week coding bootcamp, and am now looking for a challenging opportunity as a Junior Developer. I particularly enjoy coding in pairs and gain a lot of satisfaction from being completely lost in code on one day to having a comprehensive understanding of it the next. I am most familiar with Ruby and Javascript kanguages but am certainly open to learning other sfrom scratch.
+I have recently graduated from Makers Academy, a 12-week coding bootcamp, and am now looking for a challenging opportunity as a Junior Developer. I particularly enjoy coding in pairs and gain a lot of satisfaction from being completely lost in code on one day to having a comprehensive understanding of it the next. I am most familiar with Ruby and Javascript languages but am certainly open to learning others from scratch.
 
 ## Code examples
 
