@@ -1,6 +1,6 @@
 # James Carter
 
-I have recently graduated from Makers Academy, a 12-week coding bootcamp, and am now looking for a challenging opportunity as a Junior Developer. I particularly enjoy coding in pairs and gain a lot of satisfaction from being completely lost in code on one day to having a comprehensive understanding of it the next. I am most familiar with Ruby and Javascript languages but am certainly open to learning others from scratch.
+I have recently graduated from Makers Academy, a 12-week coding bootcamp, and am now looking for a challenging opportunity as a Junior Developer. I particularly enjoy coding in pairs and gain a lot of satisfaction from being completely lost in code on one day to having a comprehensive understanding of it the next. I am most familiar with Ruby and Javascript languages but am certainly open to learning others from scratch. My background before learning to code was in finance working at UBS and I also more recently spent time working in Chongqing, China.
 
 ## Code examples
 
@@ -26,11 +26,10 @@ A highly-selective twelve week immersive web development bootcamp in London, foc
 
 **Languages**:
 
-
 * Ruby
 * JavaScript
 
-And also touche
+And also touched upon:
 * CoffeeScript
 * JQuery
 * HTML/CSS
@@ -80,7 +79,11 @@ I spent the start of 2014 based in Chongqing, China. Here I was working for a bu
 
 ##### Investment Assistant/ e-commerce
 
-I held two roles over four years at UBS. Firstly I worked in private wealth management looking after client accounts and executing orders. Then after this I worked in technology, specifically on the roll-out of a multi-asset trading platform.
+I held two roles over four years at UBS. Firstly I worked in private wealth management looking after client accounts and executing orders. Then after this I worked in Technology, specifically on the roll-out of a multi-asset trading platform named UBS Neo. The project used Agile practices and our team specifically oversaw the creation of an onboarding tool for clients. In my role I worked to oversee the development of this tool and also dealt with client queries on the platform.
+
+## Interests
+
+I am a very big fan of music and like spending my spare time listening to and discovering new music. I also enjoy cycling, swimming and travelling.
 
 
 #### Contact details
